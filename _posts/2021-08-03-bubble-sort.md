@@ -18,13 +18,13 @@ keywords: 算法
 
 第一次冒泡排序：
 
-![](/images/posts/algorithm/Untitled.png)
+![](/images/posts/algorithm/bubble_1.png)
 
 可以看到，经过第一轮排序后，76这个数字已经存储在正确的位置上，相应的想要对整个数组由小到大依次排序，最多只需进行6次相同的操作即可。
 
 冒泡排序的最终结果：
 
-![](/images/posts/algorithm/Untitled%201.png)
+![](/images/posts/algorithm/bubble_2.png)
 
 实际上，当第N次冒泡排序结果未发生变化时，表示数组排序已经完成，可以提前退出排序。
 
