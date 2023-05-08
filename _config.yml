@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://zhuyongfeng-oct26.github.io
+url: https://zhuyongfeng-oct26.github.io
 date_format: "ordinal"
 title: 朱永峰的博客
 subtitle: ""
