@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 策略模式
+title: 单例模式
 categories: 设计模式
 description:
 keywords: 设计模式
