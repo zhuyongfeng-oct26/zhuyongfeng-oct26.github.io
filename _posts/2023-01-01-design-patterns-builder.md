@@ -18,7 +18,7 @@ keywords: 设计模式
 
 ### 类图关系
 
-![](/images/posts/algorithm/02.png)
+![](/images/posts/design_patterns/02.png)
 
 ### 代码实现
 
