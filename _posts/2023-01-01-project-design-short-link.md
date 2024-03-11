@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 短链接
+title: 短链接设计
 categories: project-design
 description:
 keywords: 项目设计
