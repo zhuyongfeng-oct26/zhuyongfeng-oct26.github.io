@@ -14,7 +14,7 @@ keywords: 项目设计
 
 首先举一个例子说明什么是短链。
 
-现在我有一遍博客的URL地址是：[https://zhuyongfeng-oct26.github.io/2023/01/01/redis-lose](https://zhuyongfeng-oct26.github.io/2023/01/01/redis-lose) (57字符)
+现在我有一篇博客的URL地址是：[https://zhuyongfeng-oct26.github.io/2023/01/01/redis-lose](https://zhuyongfeng-oct26.github.io/2023/01/01/redis-lose) (57字符)
 
 我可以通过在线的免费工具将其生成一条短链接：[https://a.d4t.cn/nQLRmE](https://a.d4t.cn/nQLRmE) (23字符)
 
